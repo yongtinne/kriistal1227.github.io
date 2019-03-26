@@ -17,17 +17,15 @@ subheading {
 background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
-span.navbar-dark .navbar-brand {
-    color: #ffffff!important;
-}
+
 .text-primary {
     color: #635687!important;
 }
 element.style {
 }
 a {
-    color: #ac2a4f!important;
+    color: #ac2a4f;
 }
 a:active, a:focus, a:hover{
-    color: #af426a!important;
+    color: #ffd18b;
 }
